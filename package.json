@@ -1,0 +1,18 @@
+{
+  "name": "n8n-custom-project",
+  "version": "1.0.0",
+  "description": "Custom nodes and UI for n8n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "n8n",
+    "custom",
+    "nodes",
+    "ui"
+  ],
+  "author": "",
+  "license": "ISC",
+  "private": true
+} 

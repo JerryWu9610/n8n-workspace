@@ -1,0 +1,4 @@
+packages:
+  - 'nodes/*'
+  - '!nodes/n8n-nodes-template'
+  - 'ui/*'
